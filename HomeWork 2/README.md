@@ -12,8 +12,6 @@
 
 В качестве базового кода была взята программа, представленная в качестве примера на сайте: [softcraft.ru](http://www.softcraft.ru/edu/comparch/practice/asm86/03-subprog/sum2-32/sum.asm)
 
-<br/>
-
 ### Компоненты программы
 
 Программу состоит из следующих компонентов-процедур:
@@ -21,8 +19,7 @@
 -   Секция с объявлением используемых данных
     ![Data section](screenshots/DataSection.png)
 
--   Секция с основным кодом программы
-    ![Code section](screenshots/CodeSection.png)
+-   Секция с основным кодом программы <br/>![Code section](screenshots/CodeSection.png)
 
 -   Процедура VectorInput для ввода массива `A`
 
